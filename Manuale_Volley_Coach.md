@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="benvenuto-nel-manuale-di-volley-coach--🏐">Benvenuto nel manuale di “Volley Coach”  🏐</h1>
 <p>Ciao, sono Marco Zoratti, il creatore di “Volley Coach” e con questa guida cercherò di chiarirti ogni dubbio riguardo all’applicazione o al suo utilizzo.<br>
 Non ti farò perdere altro tempo, iniziamo!</p>
