@@ -28,13 +28,14 @@ I file in questione sono:</p>
 <p>Oltre ad analizzare i documenti utili per l’utilizzo dell’applicazione, ti spiegherò anche le ulteriori funzioni di Volley Coach:</p>
 <ul>
 <li><a href="#homePage">Home Page</a></li>
-<li>Dati personali</li>
+<li><a href="#datiPersonali">Dati personali</a></li>
 <li><a href="#backup">Backup dei dati</a></li>
-<li>Ricerca avanzata</li>
-<li>Impostazioni</li>
+<li><a href="#ricerca">Ricerca avanzata</a></li>
+<li><a href="#impostazioni">Impostazioni</a></li>
 <li><a href="#animazioni">Animazioni</a></li>
-<li>Privacy policy</li>
+<li><a href="#privacyPolicy">Privacy policy</a></li>
 <li><a href="#programmatore">Informazioni sul programmatore</a></li>
+<li><a href="#domande"><strong>Domande comuni</strong></a></li>
 </ul>
 <h1 id="a-idhomepageahome-page"><a id="homePage"></a>Home Page</h1>
 <p>Prima di iniziare a parlare dei vari <em>files</em>, è meglio conoscere come navigare nell’applicazione.<br>
@@ -185,6 +186,8 @@ Per questo, Volley Coach offre la possibilità di creare, salvare e condividere 
 Qui di seguito ti elenco tutto ciò che c’è da sapere sull’app!</p>
 <h2 id="a-idbackupa-backup-🔄"><a id="backup"></a> Backup 🔄</h2>
 <p>backup</p>
+<h2 id="a-idprivacypolicya-privacy-policy"><a id="privacyPolicy"></a> Privacy Policy</h2>
+<p>Potrai leggere il privacy policy da <a href="https://github.com/marchacio/Volley_Coach/blob/master/privacy_policy.md">qui</a></p>
 <h2 id="a-idanimazioniaanimazioni-📐"><a id="animazioni"></a>Animazioni 📐</h2>
 <p>Per rendere l’esperienza d’utilizzo piacevole, Volley Coach ha al suo interno numerose animazioni disegnate secondo il material design.<br>
 Tutte le mie animazioni le puoi trovare sul sito Rive, a <a href="https://rive.app/a/marchacio03/files/recent/all">questo indirizzo</a>, eccone alcune:<br>
@@ -195,4 +198,15 @@ Tutte le mie animazioni le puoi trovare sul sito Rive, a <a href="https://rive.a
 <p><img src="https://i.ibb.co/2NXR9DM/ezgif-com-video-to-gif-1.gif" alt="Team"></p>
 <h2 id="a-idprogrammatorea-programmatore"><a id="programmatore"></a> Programmatore</h2>
 <p>todo</p>
+<h1 id="a-iddomandea-domande-frequenti"><a id="domande"></a> Domande frequenti</h1>
+<p>Qui di seguito ti elencherò alcune domande che possono sorgere durante l’utilizzo di Volley Coach.</p>
+<blockquote>
+<p>Se non hai trovato la risposta tra quelle seguenti, puoi scrivermi alla mia mail per qualsiasi idea, riferimento o domanda: <a href="mailto:marchacio03@gmail.com">marchacio03@gmail.com</a>.<br>
+Sarò lieto di aiutarti personalmente nel minor tempo possibile!</p>
+</blockquote>
+<ul>
+<li>Volley Coach raccoglie i miei dati?<br>
+La risposta è <strong>NO</strong>, Volley Coach è un’applicazione completamente offline (tranne per leggere questo manuale online) che quindi non condivide alcun dato con nessuno.<br>
+I tuoi file (sia personali sia di VC) sono al sicuro, a meno che tu non decida di condividerli volontariamente con altre persone.</li>
+</ul>
 
