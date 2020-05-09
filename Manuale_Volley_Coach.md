@@ -18,7 +18,7 @@ I file in questione sono:</p>
 <li><a href="#giocatori">Giocatori</a></li>
 <li><a href="#squadre">Squadre</a></li>
 <li><a href="#fisico">Esercizi e allenamenti fisici</a></li>
-<li><a href="prePartita">Scheda pre-partita</a></li>
+<li><a href="#prePartita">Scheda pre-partita</a></li>
 </ul>
 <p>Ognuno di questi tipi di documenti contiene delle caratteristiche uniche in base alla propria funzione, clicca su uno di essi per vederne i dettagli.</p>
 <blockquote>
@@ -172,15 +172,37 @@ Dalla pagina di visualizzazione dell’atleta infatti potrai aggiornare queste s
 <h1 id="a-idfisicoaesercizi-e-allenamenti-fisici-💪"><a id="fisico"></a>Esercizi e allenamenti <em>fisici</em> 💪</h1>
 <p>Ovviamente, non esistono solo gli allenamenti ed esercizi tecnici per la squadra, ma ci sarà bisogno anche lavorare sul fisico dei propri atleti.<br>
 Per questo, Volley Coach offre la possibilità di creare, salvare e condividere <strong>esercizi</strong> e <strong>allenamenti</strong> mirati al <strong>miglioramento fisico</strong> dei giocatori.</p>
-<p>Il concetto di questi tipi di documenti sarà il medesimo di quelli tecnici, ovvero più esercizi formano un allenamento: per questo ci soffermeremo solo sulla creazione e la visualizzazione di questi.</p>
+<p>Il concetto di questi tipi di documenti sarà il medesimo di quelli tecnici, ovvero più esercizi formano un allenamento: per questo ci soffermeremo solo sulla creazione di questi.</p>
 <h2 id="esercizi-fisici">Esercizi fisici</h2>
-<p>es</p>
+<p>Creare un esercizio fisico è molto semplice: bisogna semplicemente recarsi nella pagina iniziale del fisico (home page &gt; pesi e fisico) e da qui cliccare su “Crea esercizio”.<br>
+I parametri da specificare per creare un esercizio fisico non sono molti:</p>
+<h3 id="obbligatori-4">Obbligatori</h3>
+<ul>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> Come per tutti i file visti fin’ora, anche questo tipo di documenti ha bisogno di un <strong>titolo</strong></li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> <strong>Corpo libero</strong>, questo campo può essere o vero o falso, che equivale rispettivamente ad eseguire l’esercizio a corpo libero (quindi senza pesi aggiuntivi) o con pesi aggiunti (questi, <strong>devono essere specificati</strong> nel campo sottostante alla grafica del bilanciere)</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> Il <strong>tipo di esercizio</strong> specifica per quale parte del corpo è finalizzato l’esercizio, ovvero <em>braccia</em>, <em>gambe</em> e <em>core</em> (default = braccia)</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> <strong>Serie</strong>, stabilisci quante serie deve eseguire il giocatore (default = 4)</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> <strong>Ripetizioni</strong>, equivale alle ripetizioni dell’esercizio in una singola serie</li>
+</ul>
+<h3 id="facoltativi-4">Facoltativi</h3>
+<ul>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> <strong>Immagine dell’esercizio</strong>, come per gli altri <em>files</em>, potrai aggiungere una foto per chiarire l’esecuzione dell’esercizio</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> <strong>Link</strong>, potrai inserire un <a href="https://it.wikipedia.org/wiki/Link"><em>collegamento link</em></a></li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> <strong>Note</strong>, con questo campo potrai scrivere ogni dettaglio che ritieni importante per eseguire correttamente l’esercizio</li>
+</ul>
 <h2 id="allenamenti-fisici">Allenamenti Fisici</h2>
-<p>al</p>
+<p>Gli allenamenti fisici sono documenti molto più semplici rispetto agli esercizi, in quanto essi sono semplicemente un contenitore di questi ultimi.<br>
+Per crearne uno, basta recarsi nella pagina iniziale del fisico (home page &gt; pesi e fisico) e da qui cliccare su “Crea allenamento”<br>
+Gli unici due campi da compilare sono:</p>
+<ul>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> <strong>Titolo dell’allenamento</strong></li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> <strong>Lista di esercizi fisici</strong>, che dovrà contenere almeno 2 esercizi</li>
+</ul>
 <h1 id="riassunto-totale-dei-files">Riassunto totale dei <em>files</em></h1>
 <p>Una volta arrivati a questo punto, possiamo completare il nostro grafico generale:</p>
 <p><a href="https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggTFJcbkF7RmlsZXN9IC0tLSBCKEdpb2NhdG9yaSlcbkEgLS0tIEMoRXNlcmNpemkpXG5BIC0tLSBGKEZpc2ljbylcbkIgLS1QacO5IGRpIDIgZ2lvY2F0b3JpIGZvcm1hbm8tLS0gRChTcXVhZHJlKVxuQyAtLVBpw7kgZGkgMiBlc2VyY2l6aSBmb3JtYW5vLS0tIEUoQWxsZW5hbWVudGkpXG5GIC0tLSBHKEVzZXJjaXppIGZpc2ljaSlcbkYgLS4tIEgoQWxsZW5hbWVudGkgZmlzaWNpKVxuRyAtLVBpdSBkaSAyIGVzZXJjaXppIGZpc2ljaSBmb3JtYW5vLS0-IEgiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ"><img src="https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggTFJcbkF7RmlsZXN9IC0tLSBCKEdpb2NhdG9yaSlcbkEgLS0tIEMoRXNlcmNpemkpXG5BIC0tLSBGKEZpc2ljbylcbkIgLS1QacO5IGRpIDIgZ2lvY2F0b3JpIGZvcm1hbm8tLS0gRChTcXVhZHJlKVxuQyAtLVBpw7kgZGkgMiBlc2VyY2l6aSBmb3JtYW5vLS0tIEUoQWxsZW5hbWVudGkpXG5GIC0tLSBHKEVzZXJjaXppIGZpc2ljaSlcbkYgLS4tIEgoQWxsZW5hbWVudGkgZmlzaWNpKVxuRyAtLVBpdSBkaSAyIGVzZXJjaXppIGZpc2ljaSBmb3JtYW5vLS0-IEgiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ" alt=""></a></p>
 <p>Si può quindi notare che la personalizzazione è il punto forte dell’applicazione, cosi da renderla il piu familiare all’allenatore e ai giocatori stessi.</p>
+<h1 id="a-idprepartitaapre-partita"><a id="prePartita"></a>Pre-partita</h1>
 <h1 id="altro-1">Altro</h1>
 <p>Ovviamente Volley Coach non è solo questo, ci sono molte altre funzioni da scoprire.<br>
 Qui di seguito ti elenco tutto ciò che c’è da sapere sull’app!</p>
