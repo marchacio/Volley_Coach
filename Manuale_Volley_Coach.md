@@ -203,11 +203,35 @@ Gli unici due campi da compilare sono:</p>
 <p><a href="https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggTFJcbkF7RmlsZXN9IC0tLSBCKEdpb2NhdG9yaSlcbkEgLS0tIEMoRXNlcmNpemkpXG5BIC0tLSBGKEZpc2ljbylcbkIgLS1QacO5IGRpIDIgZ2lvY2F0b3JpIGZvcm1hbm8tLS0gRChTcXVhZHJlKVxuQyAtLVBpw7kgZGkgMiBlc2VyY2l6aSBmb3JtYW5vLS0tIEUoQWxsZW5hbWVudGkpXG5GIC0tLSBHKEVzZXJjaXppIGZpc2ljaSlcbkYgLS4tIEgoQWxsZW5hbWVudGkgZmlzaWNpKVxuRyAtLVBpdSBkaSAyIGVzZXJjaXppIGZpc2ljaSBmb3JtYW5vLS0-IEgiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ"><img src="https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggTFJcbkF7RmlsZXN9IC0tLSBCKEdpb2NhdG9yaSlcbkEgLS0tIEMoRXNlcmNpemkpXG5BIC0tLSBGKEZpc2ljbylcbkIgLS1QacO5IGRpIDIgZ2lvY2F0b3JpIGZvcm1hbm8tLS0gRChTcXVhZHJlKVxuQyAtLVBpw7kgZGkgMiBlc2VyY2l6aSBmb3JtYW5vLS0tIEUoQWxsZW5hbWVudGkpXG5GIC0tLSBHKEVzZXJjaXppIGZpc2ljaSlcbkYgLS4tIEgoQWxsZW5hbWVudGkgZmlzaWNpKVxuRyAtLVBpdSBkaSAyIGVzZXJjaXppIGZpc2ljaSBmb3JtYW5vLS0-IEgiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ" alt=""></a></p>
 <p>Si può quindi notare che la personalizzazione è il punto forte dell’applicazione, cosi da renderla il piu familiare all’allenatore e ai giocatori stessi.</p>
 <h1 id="a-idprepartitaapre-partita"><a id="prePartita"></a>Pre-partita</h1>
+<p>Oltre agli allenamenti, ovviamente ci sono anche i campionati e le partite.<br>
+Per aumentare la probabilità di vittoria, crea <strong>analisi pre-partita</strong> da condividere con i tuoi giocatori.</p>
+<p>Come sempre, ci saranno dei campi obbligatori da compilare ed altro facoltativi:</p>
+<h3 id="obbligatori-5">Obbligatori</h3>
+<ul>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> <strong>Titolo</strong>, come sempre questo campo determina il nome del file</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> <strong>Data della partita</strong>, come dice il nome questo campo dev’essere compilato con la data dell’incontro</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> <strong>Schemi</strong>, questo è il carattere principale della configurazione del pre-partita, ovvero disegnare gli schemi <em>che la squadra avversaria probabilmente seguirà in partita</em>.<br>
+Per creare uno schema, basterà cliccare sul campo con la rotazione desiderata per poi modificare la posizione dei giocatori (segnati con dei pallini blu) e disegnare lo schema.</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> <strong>Lista degli avversari</strong>, questa è la lista dei giocatori avversari, che dev’essere formata da almeno 6 elementi per poter salvare il file.</li>
+</ul>
+<h3 id="facoltativi-5">Facoltativi</h3>
+<ul>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> <strong>Note</strong>,  tenendo premuto la rotazione desiderata, si potranno inserire delle note per specificare ogni minimo dettaglio</li>
+</ul>
 <h1 id="altro-1">Altro</h1>
 <p>Ovviamente Volley Coach non è solo questo, ci sono molte altre funzioni da scoprire.<br>
 Qui di seguito ti elenco tutto ciò che c’è da sapere sull’app!</p>
 <h2 id="a-idbackupa-backup-🔄"><a id="backup"></a> Backup 🔄</h2>
-<p>backup</p>
+<p>Per evitare perdite di dati, potrai creare o programmare un backup automatico!</p>
+<h3 id="backup-manuale">Backup manuale</h3>
+<p>Per eseguire un backup manuale, bisognerà recarsi nelle impostazioni e cliccare su “Esegui backup”.<br>
+Una volta terminato il processo di creazione del backup, il file .zip si troverà nella cartella “~/BackupVolleyball_Coach/” con un nome simile a <em>backup-GIORNODELMESE-MESE.zip</em></p>
+<h3 id="backup-automatico">Backup automatico</h3>
+<p>Grazie a quest’opzione, potrai decidere se far creare all’app un nuovo backup automatico ogni volta che viene creato un nuovo file.<br>
+Il file zip di backup si troverà nella cartella  “~/BackupVolleyball_Coach/AutoBackups/” e avrà un nome statico (<em>Backup.zip</em>), in quanto verrà sovrascritto ad ogni creazione di un nuovo file.</p>
+<h3 id="ripristino">Ripristino</h3>
+<p>Per ripristinare un backup eseguito precedentemente, basterà recarsi nelle impostazioni, per poi schiacciare su “Ripristino”. A questo punto si aprirà il file manager del proprio dispositivo, e da qui dovrai scegliere il file <em>.zip</em> da ripristinare.<br>
+Automaticamente l’applicazione prenderà i file dall’archivio zip e ripristinerà <strong>SOLO</strong> i file che non esistono già, e se cosi fosse essi <strong>NON verranno sovrascritti</strong></p>
 <h2 id="a-idprivacypolicya-privacy-policy"><a id="privacyPolicy"></a> Privacy Policy</h2>
 <p>Potrai leggere il privacy policy da <a href="https://github.com/marchacio/Volley_Coach/blob/master/privacy_policy.md">qui</a></p>
 <h2 id="a-idanimazioniaanimazioni-📐"><a id="animazioni"></a>Animazioni 📐</h2>
@@ -218,8 +242,10 @@ Tutte le mie animazioni le puoi trovare sul sito Rive, a <a href="https://rive.a
 <p><img src="https://i.ibb.co/YcMtmvM/ezgif-com-video-to-gif-2.gif" alt="Files"></p>
 <p><img src="https://i.ibb.co/ZBK2cmd/ezgif-com-video-to-gif.gif" alt="Fisico"></p>
 <p><img src="https://i.ibb.co/2NXR9DM/ezgif-com-video-to-gif-1.gif" alt="Team"></p>
-<h2 id="a-idprogrammatorea-programmatore"><a id="programmatore"></a> Programmatore</h2>
-<p>todo</p>
+<h2 id="a-idprogrammatorea-programmatore-e-ringraziamenti"><a id="programmatore"></a> Programmatore e ringraziamenti</h2>
+<p>Mi dedico un piccolissimo spazio in questo manuale, giusto per conoscerci meglio (😂) e ringraziare chi ha reso possibile questo progetto.</p>
+<p>Sono Marco Zoratti, abito a Genova e gioco nella <a href="https://www.facebook.com/ColomboVolleyGenova/">Colombo Volley</a> come palleggiatore.<br>
+Ringrazio particolarmente Luca, Moschi, la mia ragazza e la mia famiglia per il supporto ❤️</p>
 <h1 id="a-iddomandea-domande-frequenti"><a id="domande"></a> Domande frequenti</h1>
 <p>Qui di seguito ti elencherò alcune domande che possono sorgere durante l’utilizzo di Volley Coach.</p>
 <blockquote>
