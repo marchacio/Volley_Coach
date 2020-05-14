@@ -271,6 +271,7 @@ Tutte le mie animazioni le puoi trovare sul sito Rive, a <a href="https://rive.a
 Ringrazio particolarmente Luca, Moschi, la mia ragazza e la mia famiglia per il supporto ❤️</p>
 <p>Puoi contattarmi per qualsiasi dubbio, richiesta o consiglio al indirizzo mail <a href="mailto:marchacio03@gmail.com">marchacio03@gmail.com</a>.</p>
 <p>Seguimi anche su <a href="https://www.instagram.com/marchacio_/">Instagram</a>, <a href="https://github.com/marchacio">GitHub</a>, <a href="https://rive.app/a/marchacio03/files/recent/all">Rive</a> e <a href="https://t.me/MZora">Telegram</a>!</p>
+<p>Visita anche il mio sito <a href="https://marchacio.wordpress.com">Marchacio</a> 😁!</p>
 <h1 id="a-iddomandea-domande-frequenti"><a id="domande"></a> Domande frequenti</h1>
 <p>Qui di seguito ti elencherò alcune domande che possono sorgere durante l’utilizzo di Volley Coach.</p>
 <blockquote>
