@@ -278,8 +278,21 @@ Ringrazio particolarmente Luca, Moschi, la mia ragazza e la mia famiglia per il 
 Sarò lieto di aiutarti personalmente nel minor tempo possibile!</p>
 </blockquote>
 <ul>
-<li>Volley Coach raccoglie i miei dati?<br>
+<li>
+<p><em>Volley Coach raccoglie i miei dati</em>?<br>
 La risposta è <strong>NO</strong>, Volley Coach è un’applicazione completamente offline (tranne per leggere questo manuale online) che quindi non condivide alcun dato con nessuno.<br>
-I tuoi file (sia personali sia di VC) sono al sicuro, a meno che tu non decida di condividerli volontariamente con altre persone.</li>
+I tuoi file (sia personali sia di VC) sono al sicuro, a meno che tu non decida di condividerli volontariamente con altre persone.</p>
+</li>
+<li>
+<p><em>Volley Coach impiega tanto tempo per caricarsi</em><br>
+Questo è dovuto alla quantità dei file, che può essere molto espansiva.<br>
+I file che rallentano di più l’app, sono quelli con immagini al loro interno (come squadre, giocatori o esercizi); per ovviare a questo problema, rimuovi queste foto modificando i file in questione.<br>
+Se questo ancora non bastasse, ti chiedo di contattarmi personalmente per descrivermi il problema più dettagliatamente, grazie!</p>
+</li>
+<li>
+<p><em>Le immagini perdono qualità durante il caricamento in un file</em><br>
+Questo è dovuto, come per le maggiori applicazioni di comunicazione o social, al fatto che le immagini alla massima risoluzione causano rallentamenti durante l’utilizzo dell’app (nota che la qualità dell’immagine rimane comunque discreta).<br>
+Se trovi fastidiosa questa opzione, potrai inserire il link dell’immagine al posto di quello del video, cosi da vederla alla massima risoluzione possibile sul proprio browser web.</p>
+</li>
 </ul>
 
