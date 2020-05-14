@@ -31,7 +31,6 @@ I file in questione sono:</p>
 <li><a href="#datiPersonali">Dati personali</a></li>
 <li><a href="#backup">Backup dei dati</a></li>
 <li><a href="#ricerca">Ricerca avanzata</a></li>
-<li><a href="#impostazioni">Impostazioni</a></li>
 <li><a href="#animazioni">Animazioni</a></li>
 <li><a href="#privacyPolicy">Privacy policy</a></li>
 <li><a href="#programmatore">Informazioni sul programmatore</a></li>
@@ -218,6 +217,7 @@ Per creare uno schema, basterà cliccare sul campo con la rotazione desiderata p
 <ul>
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> <strong>Note</strong>,  tenendo premuto la rotazione desiderata, si potranno inserire delle note per specificare ogni minimo dettaglio</li>
 </ul>
+<p><img src="https://i.ibb.co/0BdRfgR/Pics-Art-05-14-02-28-16.jpg" alt="Creazione Pre-Partita"></p>
 <h1 id="altro-1">Altro</h1>
 <p>Ovviamente Volley Coach non è solo questo, ci sono molte altre funzioni da scoprire.<br>
 Qui di seguito ti elenco tutto ciò che c’è da sapere sull’app!</p>
@@ -232,8 +232,30 @@ Il file zip di backup si troverà nella cartella  “~/BackupVolleyball_Coach/Au
 <h3 id="ripristino">Ripristino</h3>
 <p>Per ripristinare un backup eseguito precedentemente, basterà recarsi nelle impostazioni, per poi schiacciare su “Ripristino”. A questo punto si aprirà il file manager del proprio dispositivo, e da qui dovrai scegliere il file <em>.zip</em> da ripristinare.<br>
 Automaticamente l’applicazione prenderà i file dall’archivio zip e ripristinerà <strong>SOLO</strong> i file che non esistono già, e se cosi fosse essi <strong>NON verranno sovrascritti</strong></p>
+<h2 id="a-iddatipersonalia-dati-personali"><a id="datiPersonali"></a> Dati personali</h2>
+<p>Nella pagina dei dati personali, potrai specificare i tuoi dati con i quali firmerai i tuoi file:<br>
+se vuoi condividere un file creato da te e vuoi che il destinatario veda la “tua proprietà”, ti basterà inserire i tuoi dati in questa pagina.</p>
+<blockquote>
+<p>Per accedere alla pagina ci sono due percorsi:</p>
+<ol>
+<li>Home Page -&gt; apri la tendina a sinistra -&gt; Dati personali (in cima alla lista)</li>
+<li>Home Page -&gt; Impostazioni -&gt; Dati personali</li>
+</ol>
+</blockquote>
+<blockquote>
+<p>Di seguito una dimostrazione di come funziona la firma dei propri file</p>
+</blockquote>
+<p><img src="https://i.ibb.co/Hrdm4Hx/Pics-Art-05-14-02-50-06.jpg" alt="Firma dei files"></p>
+<h3 id="note">Note</h3>
+<ol>
+<li>I file che hai creato prima di aver configurato i tuoi dati personali non conterranno questi ultimi; per aggiungerli dovrai semplicemente modificare il file e salvarlo</li>
+<li>I tuoi dati NON verranno salvati da nessuna parte, se non nel tuo dispositivo e nei file che crei. Per sicurezza personale, non inserire (ad esempio) il tuo indirizzo mail personale, ma quello lavorativo</li>
+</ol>
 <h2 id="a-idprivacypolicya-privacy-policy"><a id="privacyPolicy"></a> Privacy Policy</h2>
 <p>Potrai leggere il privacy policy da <a href="https://github.com/marchacio/Volley_Coach/blob/master/privacy_policy.md">qui</a></p>
+<h2 id="a-idricercaa-ricerca-avanzata"><a id="ricerca"></a> Ricerca avanzata</h2>
+<p>Volley coach implementa un’avanzata funzione di ricerca dei propri file: in cima alla Home Page verrà mostrata una barra di ricerca con la quale potrai cercare qualsiasi file (<em>esclusi i pre-partita</em>) velocemente, cosi da risparmiare tempo.</p>
+<p><img src="https://i.ibb.co/kmmC6SG/IMG-20200514-145935-1-1.jpg" alt="enter image description here" width="400"></p>
 <h2 id="a-idanimazioniaanimazioni-📐"><a id="animazioni"></a>Animazioni 📐</h2>
 <p>Per rendere l’esperienza d’utilizzo piacevole, Volley Coach ha al suo interno numerose animazioni disegnate secondo il material design.<br>
 Tutte le mie animazioni le puoi trovare sul sito Rive, a <a href="https://rive.app/a/marchacio03/files/recent/all">questo indirizzo</a>, eccone alcune:<br>
@@ -244,8 +266,11 @@ Tutte le mie animazioni le puoi trovare sul sito Rive, a <a href="https://rive.a
 <p><img src="https://i.ibb.co/2NXR9DM/ezgif-com-video-to-gif-1.gif" alt="Team"></p>
 <h2 id="a-idprogrammatorea-programmatore-e-ringraziamenti"><a id="programmatore"></a> Programmatore e ringraziamenti</h2>
 <p>Mi dedico un piccolissimo spazio in questo manuale, giusto per conoscerci meglio (😂) e ringraziare chi ha reso possibile questo progetto.</p>
+<p><img src="https://i.ibb.co/j3dgF4r/Marchacio-copia.png" alt="Marchacio"></p>
 <p>Sono Marco Zoratti, abito a Genova e gioco nella <a href="https://www.facebook.com/ColomboVolleyGenova/">Colombo Volley</a> come palleggiatore.<br>
 Ringrazio particolarmente Luca, Moschi, la mia ragazza e la mia famiglia per il supporto ❤️</p>
+<p>Puoi contattarmi per qualsiasi dubbio, richiesta o consiglio al indirizzo mail <a href="mailto:marchacio03@gmail.com">marchacio03@gmail.com</a>.</p>
+<p>Seguimi anche su <a href="https://www.instagram.com/marchacio_/">Instagram</a>, <a href="https://github.com/marchacio">GitHub</a>, <a href="https://rive.app/a/marchacio03/files/recent/all">Rive</a> e <a href="https://t.me/MZora">Telegram</a>!</p>
 <h1 id="a-iddomandea-domande-frequenti"><a id="domande"></a> Domande frequenti</h1>
 <p>Qui di seguito ti elencherò alcune domande che possono sorgere durante l’utilizzo di Volley Coach.</p>
 <blockquote>
