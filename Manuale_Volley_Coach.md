@@ -28,6 +28,7 @@ I file in questione sono:</p>
 <p>Oltre ad analizzare i documenti utili per l’utilizzo dell’applicazione, ti spiegherò anche le ulteriori funzioni di Volley Coach:</p>
 <ul>
 <li><a href="#homePage">Home Page</a></li>
+<li><a href="#volleyPlayers">Volley Players</a></li>
 <li><a href="#datiPersonali">Dati personali</a></li>
 <li><a href="#backup">Backup dei dati</a></li>
 <li><a href="#ricerca">Ricerca avanzata</a></li>
@@ -218,6 +219,19 @@ Per creare uno schema, basterà cliccare sul campo con la rotazione desiderata p
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> <strong>Note</strong>,  tenendo premuto la rotazione desiderata, si potranno inserire delle note per specificare ogni minimo dettaglio</li>
 </ul>
 <p><img src="https://i.ibb.co/0BdRfgR/Pics-Art-05-14-02-28-16.jpg" alt="Creazione Pre-Partita"></p>
+<h1 id="a-idvolleyplayersavolley-players"><a id="volleyPlayers"></a>Volley Players</h1>
+<p><img src="https://i.ibb.co/KzNMFQ0/volleyball-players.png" alt="Volley Players" width="300"></p>
+<p>Volley Players, come dice il titolo, è un’applicazione che segue la filosofia di Volley Coach, ma <strong>indirizzata ai giocatori</strong>:  infatti con quest’app i tuoi giocatori potranno vedere e analizzare i tuoi file condivisi con loro.</p>
+<p>Ovviamente, <strong>“Volley Players” è gratis e disponibile <a href="https://play.google.com/store/apps/details?id=com.marchacio.volley_players">qui</a> (Play Store)</strong>!</p>
+<h2 id="funzionalità">Funzionalità</h2>
+<p>Con Volley Players i tuoi giocatori potranno vedere e condividere i documenti ma <strong>non</strong> potranno modificarli.</p>
+<p>Questa applicazione offre quindi la possibilità di analizzare i pre-partita, gli allenamenti e gli esercizi (e tutti gli altri tipi di file) prima dell’allenamento o prima della partita vera e propria.</p>
+<blockquote>
+<p>Facciamo un esempio:<br>
+Tu (allenatore) in palestra, il giorno prima della partita, fai un’analisi della squadra avversaria con i tuoi giocatori;<br>
+Per evitare di consegnare loro fogli, disegni e cose varie, potrai creare il pre-partita con Volley Coach per poi inviare il documento (ad esempio via Whatsapp) alla squadra, che lo potrà vedere in qualsiasi momento con Volley Player</p>
+</blockquote>
+<p>Se ti interessa questo progetto, <a href="https://play.google.com/store/apps/details?id=com.marchacio.volley_players">scarica Volley Players dal Play Store</a></p>
 <h1 id="altro-1">Altro</h1>
 <p>Ovviamente Volley Coach non è solo questo, ci sono molte altre funzioni da scoprire.<br>
 Qui di seguito ti elenco tutto ciò che c’è da sapere sull’app!</p>
