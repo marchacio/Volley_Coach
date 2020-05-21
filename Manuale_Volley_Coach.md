@@ -130,7 +130,8 @@ Infatti i giocatori, come per gli esercizi, <em>sono le parti più piccole di un
 </blockquote>
 <ul>
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> <strong>Immagine</strong>, inserisci un’immagine/foto che rappresenti il pallavolista.</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> <strong>Note</strong>, con questo campo potrai specificare nei minimi dettagli caratteristiche varie del giocatore</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> <strong>Numero di telefono e indirizzo mail</strong>, tramite questi campi potrai contattare direttamente il giocatore</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> <strong>Note</strong>, con questo campo potrai specificare nei minimi dettagli tutte le caratteristiche che ritieni importanti</li>
 </ul>
 <h3 id="caratteristiche-tecniche-e-fisiche">Caratteristiche tecniche e fisiche</h3>
 <p>I giocatori sono i <em>file</em> più complessi per via delle seguenti caratteristiche: <strong>i dati fisici e quelli tecnici</strong>.</p>
