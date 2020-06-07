@@ -238,6 +238,21 @@ Per creare uno schema, basterà cliccare sul campo con la rotazione desiderata p
 <li>Impostare un promemoria per una partita con allegato il file pre-partita di questa</li>
 </ol>
 </blockquote>
+<p>Potrai arrivare alla pagina di creazione di un evento in diversi modi:</p>
+<ol>
+<li>
+<p>Dalla pagina di visualizzazione di quest’ultimo, cliccando sui tre puntini in alto a destra potrai schiacciare il pulsante “Crea evento” <em>(questo passaggio allegherà automaticamente il file visualizzato nel nuovo evento)</em>.</p>
+</li>
+<li>
+<p>Dalla pagina di creazione di un giocatore o di un pre-partita, potrai spuntare l’opzione “Promemoria personalizzato” per crearlo (subito dopo aver salvato il giocatore o il pre-partita); <em>anche questo passaggio, allegherà il giocatore/pre-partita al nuovo evento</em>.</p>
+</li>
+<li>
+<p>Dalla pagina del <em>Calendario</em>, potrai selezionare un giorno successivo al giorno corrente per poi cliccare su “Crea nuovo” <em>(questo è l’unico passaggio che non allegherò alcun file al nuovo evento)</em>.</p>
+</li>
+</ol>
+<blockquote>
+<p>NB: ovviamente, i file allegati in automatico (o per errore) li potrai cancellare scorrendo lateralmente su esso nella lista in fondo alla pagina</p>
+</blockquote>
 <p><img src="https://i.ibb.co/sK0qtyD/IMG-20200607-182338.jpg" alt="Creazione dell'evento" width="400"></p>
 <h2 id="calendario">Calendario</h2>
 <p>Ovviamente, potrai avere una visualizzazione compatta e minimale di tutti i tuoi eventi, andando nella pagina del Calendario (Home Page =&gt; Menu laterale =&gt; Calendario).</p>
