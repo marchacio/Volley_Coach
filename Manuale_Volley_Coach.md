@@ -19,6 +19,7 @@ I file in questione sono:</p>
 <li><a href="#squadre">Squadre</a></li>
 <li><a href="#fisico">Esercizi e allenamenti fisici</a></li>
 <li><a href="#prePartita">Scheda pre-partita</a></li>
+<li><a href="#eventi">Eventi</a></li>
 </ul>
 <p>Ognuno di questi tipi di documenti contiene delle caratteristiche uniche in base alla propria funzione, clicca su uno di essi per vederne i dettagli.</p>
 <blockquote>
@@ -220,6 +221,33 @@ Per creare uno schema, basterà cliccare sul campo con la rotazione desiderata p
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> <strong>Note</strong>,  tenendo premuto la rotazione desiderata, si potranno inserire delle note per specificare ogni minimo dettaglio</li>
 </ul>
 <p><img src="https://i.ibb.co/0BdRfgR/Pics-Art-05-14-02-28-16.jpg" alt="Creazione Pre-Partita"></p>
+<h1 id="a-ideventiaeventi-e-calendario"><a id="eventi"></a>Eventi e Calendario</h1>
+<p>Gli <strong>eventi</strong> sono dei file situati nella cartella “/Volleyball_Coach/Calendario/” e sono sostanzialmente delle notifiche che ti avviseranno di un <em>evento</em> creato in precedenza.</p>
+<h2 id="creazione-e-visualizzazione">Creazione e visualizzazione</h2>
+<p>Gli eventi sono dei file molto semplici, infatti basterà impostare:</p>
+<ul>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> <strong>Titolo</strong>, che servirà per denominare il file;</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> <strong>Data</strong>, sarà la data (e l’ora) alla quale verrà inviata la notifica;</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> <strong>Descrizione</strong>, è un campo opzionale in cui potrai specificare qualsiasi cosa ti venga in mente</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> <strong>Lista dei files allegati</strong>, in questo campo, potrai allegare alcuni file che sono correlati con l’evento ai quali potrai avere accesso facilmente cliccando semplicemente su di essi</li>
+</ul>
+<blockquote>
+<p>Esempi di utilizzo:</p>
+<ol>
+<li>Impostare un promemoria di scadenza di un certificato medico di un giocatore (con allegato quest’ultimo)</li>
+<li>Impostare un promemoria per una partita con allegato il file pre-partita di questa</li>
+</ol>
+</blockquote>
+<p><img src="https://i.ibb.co/sK0qtyD/IMG-20200607-182338.jpg" alt="Creazione dell'evento" width="400"></p>
+<h2 id="calendario">Calendario</h2>
+<p>Ovviamente, potrai avere una visualizzazione compatta e minimale di tutti i tuoi eventi, andando nella pagina del Calendario (Home Page =&gt; Menu laterale =&gt; Calendario).</p>
+<p>Si presenterà:</p>
+<ol>
+<li>Una parte superiore in cui verrà mostrato il calendario vero e proprio con i giorni del mese corrente;</li>
+<li>Una sezione inferiore in cui saranno mostrati tutti gli eventi che corrispondono al giorno indicato (modificabile cliccando nella parte superiore il giorno richiesto).<br>
+Da notare che gli eventi passati saranno indicati con una barra nera sovrapposta al testo del titolo;</li>
+</ol>
+<p><img src="https://i.ibb.co/SrjTQfK/Screenshot-2020-06-07-18-33-23-215-com-marchacio-volley-coach.jpg" alt="Calendario" width="400"></p>
 <h1 id="a-idvolleyplayersavolley-players"><a id="volleyPlayers"></a>Volley Players</h1>
 <p><img src="https://i.ibb.co/KzNMFQ0/volleyball-players.png" alt="Volley Players" width="300"></p>
 <p>Volley Players, come dice il titolo, è un’applicazione che segue la filosofia di Volley Coach, ma <strong>indirizzata ai giocatori</strong>:  infatti con quest’app i tuoi giocatori potranno vedere e analizzare i tuoi file condivisi con loro.</p>
